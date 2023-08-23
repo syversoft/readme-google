@@ -14,97 +14,97 @@
 
     a) Exclude specific words from results.  
     b) Examples:
-    - "Science -class"
-    - "Banana -fruit"
-    - "Pokemon -Go"
+    - Science -class
+    - Banana -fruit
+    - Pokemon -Go
 
 **3. Asterisk (*) Wildcard**
 
     a) Use as a placeholder for unknown words or characters in a phrase.  
     b) Examples:
-    - "I want to go to *"
-    - "Best place to visit in * in 2023"
-    - "the * of sugar"
+    - I want to go to *
+    - Best place to visit in * in 2023
+    - the * of sugar
 
 **4. Site-specific Search (site:)**
 
     a) Search within a specific website or domain.  
     b) Examples:
-    - "site:facebook.com sugar"
-    - "site:reddit.com coding"
-    - "site:twitter.com global warming"
+    - site:facebook.com sugar
+    - site:reddit.com coding
+    - site:twitter.com global warming
 
 **5. Related Sites (related:)**
 
     a) Find websites similar to a specified site.  
     b) Examples:
-    - "related:twitter.com"
-    - "related:internetdownloadmanager.com"
-    - "related:microsoft.com"
+    - related:twitter.com
+    - related:internetdownloadmanager.com
+    - related:microsoft.com
 
 **6. File Type Search (filetype:)**
 
-    a)  Search for specific file types.  
+    a) Search for specific file types.  
     b) Examples:
-    - "example1"
-    - "example2"
-    - "example3"
+    - "software architecture" filetype:pdf
+    - "cake recipes" filetype:ppt
+    - "global warming research" filetype:docx
 
 **7. Numeric Range (..)**
 
     a) Search within a numeric range.  
     b) Examples:
-    - "example1"
-    - "example2"
-    - "example3"
+    - best songs 2021..2023
+    - best anime 2023..2023
+    - best movies 2000..2001
 
 **8. Define (define:)**
 
     a) Get the definition of a word.  
     b) Examples:
-    - "example1"
-    - "example2"
-    - "example3"
+    - define:jargon
+    - define:anime
+    - define:infinite
 
 **9. Currency Conversion**
 
     a) Convert currencies using "to.".  
     b) Examples:
-    - "example1"
-    - "example2"
-    - "example3"
+    - 100 USD to EUR
+    - RM 500 to Rupiah
+    - AUD 10 to SGD
 
 **10. Synonym Search (~)**
 
     a) Include synonyms in search.  
     b) Examples:
-    - "example1"
-    - "example2"
-    - "example3"
+    - ~good
+    - ~powerful
+    - ~worried
 
 **11. Location-specific Results (location:)**
 
     a) Find local results.  
     b) Examples:
-    - "example1"
-    - "example2"
-    - "example3"
+    - location:Malaysia curry
+    - location:Singapore wanton
+    - location:New York pizza
 
 **12. Star (*) Operator for Word Variations**
 
     a) Use for word variations or inflections.  
     b) Examples:
-    - "example1"
-    - "example2"
-    - "example3"
+    - cry *
+    - run *
+    - kick *
 
 **13. Hashtag (#)**
 
     a) Use hashtags for social media content search.  
     b) Examples:
-    - "example1"
-    - "example2"
-    - "example3"
+    - #code
+    - #jomsapot
+    - #viralvideo
 
 **14. At (@) Operator for Social Tags**
 

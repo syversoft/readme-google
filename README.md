@@ -110,94 +110,94 @@
 
     a) Use to search for social media tags.  
     b) Examples:
-    - "example1"
-    - "example2"
-    - "example3"
+    - @dubaicollege
+    - @malaysiaviralll
+    - @earth_updates
 
 **15. Dollar Sign ($) Operator for Prices**
 
     a) Use to search for prices.  
     b) Examples:
-    - "example1"
-    - "example2"
-    - "example3"
+    - laptop RM1000
+    - camera $500
+    - fried rice AUD10
 
 **16. Tilde (~) Operator for Similar Words**
 
     a) Include similar words in search.  
     b) Examples:
-    - "example1"
-    - "example2"
-    - "example3"
+    - ~fast food
+    - ~greatest song
+    - ~fried rice
 
 **17. Ampersand (&) Operator for Logical AND**
 
     a) Use for logical "AND" in search.  
     b) Examples:
-    - "example1"
-    - "example2"
-    - "example3"
+    - cats & dogs
+    - movies & songs
+    - bread & butter
 
 **18. Vertical Bar (|) Operator for Logical OR**
 
     a) Use for logical "OR" in search.  
     b) Examples:
-    - "example1"
-    - "example2"
-    - "example3"
+    - cats | dogs
+    - movies | songs
+    - bread | butter
 
 **19. Parentheses () for Grouping**
 
     a) Group search terms for complex searches.  
     b) Examples:
-    - "example1"
-    - "example2"
-    - "example3"
+    - (Indian | vegetarian | Chinese) recipes
+    - (Apple | Windows) laptop
+    - (Gucci | Prada) handbag
 
 **20. Question Mark (?) for Wildcards**
 
     a) Use to replace a single character in a search term.  
     b) Examples:
-    - "example1"
-    - "example2"
-    - "example3"
+    - s?ng
+    - add?ess
+    - teleph?ne
 
 **21. Caret (^) for Exponentiation**
 
-    a) Use for math operations.  
+    a) Use for exponential math operations.  
     b) Examples:
-    - "example1"
-    - "example2"
-    - "example3"
+    - 2^10
+    - 1^1
+    - 12^5
 
 **22. Percent (%) for Percentage Calculation**
 
     a) Use for percentage calculations.  
     b) Examples:
-    - "example1"
-    - "example2"
-    - "example3"
+    - 20% of 100
+    - 1.6% of 12345
+    - 1% of 0.5566
 
 **23. Hash (#) for Programming Searches**
 
     a) Use for programming-related searches.  
     b) Examples:
-    - "example1"
-    - "example2"
-    - "example3"
+    - Java #variable
+    - Python #loop
+    - Flutter #test
 
 **24. Underscore (_) for Phrase Separation**
 
     a) Use to separate phrases in a search.  
     b) Examples:
-    - "example1"
-    - "example2"
-    - "example3"
+    - impossible_book
+    - fried_telescope
+    - duck_tiger
 
 **25. Apostrophe ('s) for Possessives**
 
     a) Include 's for possessives.  
     b) Examples:
-    - "example1"
-    - "example2"
-    - "example3"
+    - Einstein's theories
+    - James Taylor's songs
+    - Rambo's movies

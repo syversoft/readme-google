@@ -14,33 +14,33 @@
 
     a) Exclude specific words from results.  
     b) Examples:
-    - "example1"
-    - "example2"
-    - "example3"
+    - "Science -class"
+    - "Banana -fruit"
+    - "Pokemon -Go"
 
 **3. Asterisk (*) Wildcard**
 
     a) Use as a placeholder for unknown words or characters in a phrase.  
     b) Examples:
-    - "example1"
-    - "example2"
-    - "example3"
+    - "I want to go to *"
+    - "Best place to visit in * in 2023"
+    - "the * of sugar"
 
 **4. Site-specific Search (site:)**
 
     a) Search within a specific website or domain.  
     b) Examples:
-    - "example1"
-    - "example2"
-    - "example3"
+    - "site:facebook.com sugar"
+    - "site:reddit.com coding"
+    - "site:twitter.com global warming"
 
 **5. Related Sites (related:)**
 
     a) Find websites similar to a specified site.  
     b) Examples:
-    - "example1"
-    - "example2"
-    - "example3"
+    - "related:twitter.com"
+    - "related:internetdownloadmanager.com"
+    - "related:microsoft.com"
 
 **6. File Type Search (filetype:)**
 
